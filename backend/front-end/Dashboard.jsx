@@ -67,10 +67,10 @@ const Dashboard = () => {
  
     // Fetch donation data (Mock Data)
     const mockDonations = [
-      { id: 1, name: "John Doe", amount: 50, category: "Food", date: "2025-03-10", gender: "Male" },
+      { id: 1, name: "Munzurul islam", amount: 50, category: "Food", date: "2025-03-10", gender: "Male" },
       { id: 2, name: "Jane Smith", amount: 30, category: "Clothing", date: "2025-03-09", gender: "Female" },
       { id: 3, name: "Alice Brown", amount: 70, category: "Food", date: "2025-03-08", gender: "Female" },
-      { id: 4, name: "Michael Johnson", amount: 100, category: "Food", date: "2025-03-07", gender: "Male" },
+      { id: 4, name: "Mon", amount: 100, category: "Food", date: "2025-03-07", gender: "Male" },
       { id: 5, name: "Emily Davis", amount: 40, category: "Clothing", date: "2025-03-06", gender: "Female" },
     ];
     setDonations(mockDonations);
